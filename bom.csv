@@ -1,7 +1,7 @@
 Part,Quantity,Price Per Unit,Total,URL
-ESP32-C5
+ESP32-C5,,,,
 Ultrasonic Transducers,200, N/A,62.81
-Amplifier
-PCB
-3D Printed Case
-40khz Carrier Wave generator
+Amplifier,,,,
+PCB,,,,
+3D Printed Case,,,,
+40khz Carrier Wave generator,,,,

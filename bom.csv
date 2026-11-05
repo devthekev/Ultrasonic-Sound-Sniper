@@ -5,5 +5,5 @@ Amplifier TPA3255,1,48.25,48.25,https://www.newegg.ca/p/2TP-005G-007V4
 PCB,1,50-80,50-80,jlcpcb.com
 3D Printed Case,2 (prototyping),10-20,10-20,
 Terminal 2 Pin Connector,20,9.83,9.83,https://www.amazon.ca/Gikfun-5-08-301-2P-Terminal-Connector-Arduino/dp/B06XHH5MH7?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A34K5WF5Z9R33P
-Capacitor,,,,,
-Inductor,,,,,
+Capacitor,,,,
+Inductor,,,,
